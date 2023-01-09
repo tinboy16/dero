@@ -1,0 +1,1 @@
+./dero-miner-linux-amd64 -w deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xn3mvxksp0r4q4 -r community-pools.mysrv.cloud:10300 --mining-threads=14 --debug
